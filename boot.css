@@ -1,0 +1,28 @@
+.row{
+	margin-bottom:30px ;
+}
+.tt{
+   margin-left:14px;
+}
+.b{
+	margin-left: 3px;
+
+}
+.btn{
+	width:150px;
+}
+body{
+	background-color: #007bff;
+}
+.formm{
+	margin-top: 27px;
+	max-width:388px;
+}
+.formm1{
+	height: 407px;
+	margin-top: 47px;
+}
+.head{
+	margin-top: 10px;
+	padding-top:20px ;
+}
